@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1pm411X7Kc
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的植物健康系统，分为管理后台和用户网页端，可以给管理员、普通用户使用，包括植物信息、疾病案例、技术方案、救治材料、健康论坛、材料科目模块和系统基础模块，项目编号T095。
 
